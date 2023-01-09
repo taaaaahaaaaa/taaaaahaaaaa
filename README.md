@@ -2,7 +2,7 @@
 <h3 align="center">QA Tester of the Future</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=taaaaahaaaaa&label=Profile%20views&color=0e75b6&style=flat" alt="taaaaahaaaaa" /> </p>
-<img align="right" alt = "coding" width="400"src ="(https://68.media.tumblr.com/12e6842f43f796addda614bf3024cd50/tumblr_ok8hzjjFYO1v7eoizo1_540.gif)">
+<img align="right" alt = "coding" width="400"src ="src="https://64.media.tumblr.com/12e6842f43f796addda614bf3024cd50/tumblr_ok8hzjjFYO1v7eoizo1_540.gif">
 
 -  💥 I’m currently learning **Cucumber**
 
